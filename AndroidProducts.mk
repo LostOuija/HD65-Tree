@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_HD65.mk
+    $(LOCAL_DIR)/twrp_HD65.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_HD65-user \
-    omni_HD65-userdebug \
-    omni_HD65-eng
+    twrp_HD65-user \
+    twrp_HD65-userdebug \
+    twrp_HD65-eng
